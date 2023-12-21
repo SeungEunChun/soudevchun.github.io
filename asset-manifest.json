@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SeungEunChun/soudevchun.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/SeungEunChun/soudevchun.github.io/static/js/main.ed043203.js",
-    "static/js/787.7e9672b1.chunk.js": "/SeungEunChun/soudevchun.github.io/static/js/787.7e9672b1.chunk.js",
-    "static/media/logo.svg": "/SeungEunChun/soudevchun.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/SeungEunChun/soudevchun.github.io/index.html",
-    "main.f855e6bc.css.map": "/SeungEunChun/soudevchun.github.io/static/css/main.f855e6bc.css.map",
-    "main.ed043203.js.map": "/SeungEunChun/soudevchun.github.io/static/js/main.ed043203.js.map",
-    "787.7e9672b1.chunk.js.map": "/SeungEunChun/soudevchun.github.io/static/js/787.7e9672b1.chunk.js.map"
+    "main.css": "/soudevchun.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/soudevchun.github.io/static/js/main.7bbb3cfd.js",
+    "static/js/787.7e9672b1.chunk.js": "/soudevchun.github.io/static/js/787.7e9672b1.chunk.js",
+    "static/media/logo.svg": "/soudevchun.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/soudevchun.github.io/index.html",
+    "main.f855e6bc.css.map": "/soudevchun.github.io/static/css/main.f855e6bc.css.map",
+    "main.7bbb3cfd.js.map": "/soudevchun.github.io/static/js/main.7bbb3cfd.js.map",
+    "787.7e9672b1.chunk.js.map": "/soudevchun.github.io/static/js/787.7e9672b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ed043203.js"
+    "static/js/main.7bbb3cfd.js"
   ]
 }
